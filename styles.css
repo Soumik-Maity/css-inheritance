@@ -1,0 +1,12 @@
+/* Properties which are inherited by the child element*/
+body {
+  text-transform: capitalize;
+  text-align: justify;
+  font-weight: 600;
+}
+
+/* Properties which are not inherited by the child element */
+body {
+  border: 2px solid gray;
+  padding: 10px;
+}
